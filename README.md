@@ -1,5 +1,3 @@
-# React-MiniProjects
-
 # 🧮 BMI Calculator App
 
 This is a simple and responsive **BMI (Body Mass Index) Calculator** built using **React.js**, **HTML**, and **CSS**. It allows users to input their weight and height and instantly get their BMI result along with a health message.
